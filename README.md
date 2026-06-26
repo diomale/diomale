@@ -1,16 +1,41 @@
-## Hi there 👋
+![Visitors](https://komarev.com/ghpvc/?username=diomale&style=for-the-badge)
 
-<!--
-**diomale/diomale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Diomale Romero
 
-Here are some ideas to get you started:
+## 🚀 About Me
+🎓 College Student from the Philippines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about:
+- Unity Game Development
+- Python Backend Development
+- Raspberry Pi
+- Linux
+- Web Development
+
+## 🌱 Currently Learning
+- Flask
+- Django
+- Docker
+- Linux Administration
+- Networking
+
+## 🛠 Tech Stack
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Unity
+- Git
+- Linux
+
+## 🔥 Current Projects
+- 📚 Prerequisition Management System
+- 🌐 Personal Portfolio Website
+- 🍓 Raspberry Pi Home Server
+- 🎮 Indie Games with Unity
+
+## 📫 Reach Me
+- GitHub: https://github.com/diomale
+
+Thanks for visiting! ⭐
