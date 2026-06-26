@@ -12,14 +12,14 @@
 - Linux
 - Web Development
 
-## 🌱 Currently Learning
+## Currently Learning
 - Flask
 - Django
 - Docker
 - Linux Administration
 - Networking
 
-## 🛠 Tech Stack
+## Tech Stack
 - Java
 - Python
 - HTML
@@ -27,7 +27,7 @@
 - JavaScript
 - Unity
 - Git
-- Linux
+- C
 
 ## 🔥 Current Projects
 - 📚 Prerequisition Management System
