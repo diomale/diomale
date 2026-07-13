@@ -36,6 +36,7 @@
 - 🎮 Indie Games with Unity
 
 ## 📫 Reach Me
+- Gmail: romerodiomaleadreluisf@gmail.com
 - GitHub: https://github.com/diomale
 
 Thanks for visiting! ⭐
