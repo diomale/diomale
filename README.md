@@ -1,13 +1,13 @@
 # Hi, I'm Diomale 👋
 
-![Visitors](https://komarev.com/ghpvc/?username=diomale&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=diomale&style=flat-square)
 
 <table>
 <tr>
 <td>
 
 ```
-@@@@@@@@@@@@@@@@@@@@@@@               
+                    @@@@@@@@@@@@@@@@@@@@@@@               
                  @@@@@@@@@@        @@@@@@@@@@             
                 @@@@@@                @@@@@               
                @@@@@     @@@@@@@@@@@@@  @@@@              
@@ -30,12 +30,6 @@
      @@@@@@@@@@@@     @@@@@@@@@@@@  @@@@@@@@@@@@@@@@
  @@@@@@@@@@@   @  @@@   @@@@@@@@@   @@  @@@@@@@@@@@@
  @@@@@   @@@@  @@@ @@@    @@@@      @@@            @
-                @@@@ @@             @@@@@ @ @      @@
-                  @@@@              @   @@@@@@@@@@ @@
-   @                @@@@       @@@@@         @@@@   @
-  @                @@@@@@@@@@@@@@@              @ @ @@
- @            @@@@ @@@@         @@            @    @
- @     @   @@@@@@@@@@       @@@@@  @  @@@@    @   @@
 ```
 
 </td>
@@ -107,5 +101,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romerodiomalemeizon@gmail.com)
 
 ---
-
-![Visitors](https://komarev.com/ghpvc/?username=diomale&style=flat-square)
