@@ -2,25 +2,29 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=diomale&style=for-the-badge)
 
+<table>
+<tr>
+<td>
+
 ```
-                   @@@@@@@@@@@@@@@@@@@@@@@               
+@@@@@@@@@@@@@@@@@@@@@@@               
                  @@@@@@@@@@        @@@@@@@@@@             
                 @@@@@@                @@@@@               
                @@@@@     @@@@@@@@@@@@@  @@@@              
               @@@@    @@@@@@@@@@@@@@@@@ @@@@              
-              @@@   @@@@@@@@@@@@  @@@@@@ @@@        diomale@romero
-              @@@  @@@@@  @@          @@@@@@        ----------------
-              @@@ @@@     @@@@     @@@@@@@@         OS: BSCS Student @ Columban College
-              @@@@@@    @@@@@@@  @@@@   @@@         Host: San Felipe, Zambales
-              @@@@@@  @@  @@@ @@ @@  @@@@@@         Kernel: Python, C, C++, JavaScript
-              @@@@@   @@@@@@@     @@@@  @@@         Shell: Laravel, Native PHP
-              @@ @@     @@@    @  @@@@  @@@         DE: Unity Engine, Aseprite
-              @@@ @        @   @        @@          WM: VS Code
-               @@@    @@@@@@            @@          Memory: Raspberry Pi + SSH
-               @@@@      @@@@       @  @@@          Uptime: 2024–Present
-                 @@@      @   @        @@           Certs: 12 (AWS, Cisco, CTF)
-                  @@       @@@@@@@@@ @@@            
-                  @@   @@@@         @@@             
+              @@@   @@@@@@@@@@@@  @@@@@@ @@@              
+              @@@  @@@@@  @@          @@@@@@              
+              @@@ @@@     @@@@     @@@@@@@@               
+              @@@@@@    @@@@@@@  @@@@   @@@               
+              @@@@@@  @@  @@@ @@ @@  @@@@@@               
+              @@@@@   @@@@@@@     @@@@  @@@               
+              @@ @@     @@@    @  @@@@  @@@               
+              @@@ @        @   @        @@                
+               @@@    @@@@@@            @@                
+               @@@@      @@@@       @  @@@                
+                 @@@      @   @        @@                 
+                  @@       @@@@@@@@@ @@@                  
+                  @@   @@@@         @@@                   
                  @@@    @@@@@@@@@@@@@@              
            @@@@@@@@@  @@    @@@@@  @@@@@@@@         
      @@@@@@@@@@@@     @@@@@@@@@@@@  @@@@@@@@@@@@@@@@
@@ -33,6 +37,27 @@
  @            @@@@ @@@@         @@            @    @
  @     @   @@@@@@@@@@       @@@@@  @  @@@@    @   @@
 ```
+
+</td>
+<td>
+
+<br>
+
+<code><b><span style="color: #00FF00">diomale</span></b><b>@</b><b><span style="color: #FF6347">romero</span></b></code><br>
+<code>----------</code><br>
+<code><span style="color: #FFD700">OS:</span> BSCS Student @ Columban College</code><br>
+<code><span style="color: #FFD700">Host:</span> San Felipe, Zambales</code><br>
+<code><span style="color: #FFD700">Kernel:</span> Python, C, C++, JavaScript</code><br>
+<code><span style="color: #FFD700">Shell:</span> Laravel, Native PHP</code><br>
+<code><span style="color: #FFD700">DE:</span> Unity Engine, Aseprite</code><br>
+<code><span style="color: #FFD700">WM:</span> VS Code</code><br>
+<code><span style="color: #FFD700">Memory:</span> Raspberry Pi + SSH</code><br>
+<code><span style="color: #FFD700">Uptime:</span> 2024–Present</code><br>
+<code><span style="color: #FFD700">Certs:</span> 12 (AWS, Cisco, CTF)</code>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,3 +107,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romerodiomalemeizon@gmail.com)
 
 ---
+
+![Visitors](https://komarev.com/ghpvc/?username=diomale&style=flat-square)
